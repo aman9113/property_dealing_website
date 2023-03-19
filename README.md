@@ -6,7 +6,7 @@ This is website which is created by me for online property dealing means for sel
 - This website real estate is under development mode and we will live soon with our startup Scare.
 -If you want to see this website page then simply download the Zip file and then extract to open in browser.after extracting simply open any of their html page in browser to see the website.
 -If you want to see the source code then download Zip file and extract them , after that open in any editor like visual studio or notedpad.
-                                            !!!!!!!!!THANKYOU!!!!!!!
+                                                    !!!!THANKYOU!!!!
 
 
 
